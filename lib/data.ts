@@ -194,7 +194,7 @@ export const products: Product[] = [
     price: 0.2,
     stock: 3000,
     description: "Multi-color twisted-handle paper shopping bags for branding.",
-    specs: ["120–150 gsm", "Twisted handles", "Custom logo"],
+    specs: [ "Twisted handles", "Custom logo"],
     images: ["/images/products/Shopping Bag.png"],
   },
 ]
