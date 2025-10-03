@@ -186,17 +186,18 @@ export const products: Product[] = [
   },
   {
     id: "p14",
-    slug: "shopping-bag-multi-color",
-    name: "shopping Bag",
-    category: "Paper Bags",
+    slug: "kraft-shopping-bag",
+    name: "Shopping Bag",
+    category: "Accessories",
     material: "Kraft",
     sizes: ["S", "M", "L"],
-    price: 0.2,
-    stock: 3000,
-    description: "Multi-color twisted-handle paper shopping bags for branding.",
-    specs: [ "Twisted handles", "Custom logo"],
+    price: 0.25,
+    stock: 4000,
+    description: "Kraft bubble mailer with peel-and-seal adhesive.",
+    specs: ["Padded interior", "Tear resistant", "Recyclable outer"],
     images: ["/images/products/Shopping Bag.png"],
   },
+  
 ]
 
 export type Service = {
