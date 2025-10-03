@@ -195,7 +195,7 @@ export const products: Product[] = [
     stock: 4000,
     description: "Kraft bubble mailer with peel-and-seal adhesive.",
     specs: ["Padded interior", "Tear resistant", "Recyclable outer"],
-    images: ["/images/products/Shopping Bag.png"],
+    images: ["/images/products/shopping Bag.png"],
   },
   
 ]
