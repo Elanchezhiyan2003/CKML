@@ -184,19 +184,19 @@ export const products: Product[] = [
     specs: ["Padded interior", "Tear resistant", "Recyclable outer"],
     images: ["/images/products/Postal Cover.png"],
   },
-  // {
-  //   id: "p14",
-  //   slug: "shopping-bag-multi-color",
-  //   name: "shopping Bag",
-  //   category: "Paper Bags",
-  //   material: "Kraft",
-  //   sizes: ["S", "M", "L"],
-  //   price: 0.2,
-  //   stock: 3000,
-  //   description: "Multi-color twisted-handle paper shopping bags for branding.",
-  //   specs: [ "Twisted handles", "Custom logo"],
-  //   images: ["/images/products/Shopping Bag.png"],
-  // },
+  {
+    id: "p14",
+    slug: "shopping-bag-multi-color",
+    name: "shopping Bag",
+    category: "Paper Bags",
+    material: "Kraft",
+    sizes: ["S", "M", "L"],
+    price: 0.2,
+    stock: 3000,
+    description: "Multi-color twisted-handle paper shopping bags for branding.",
+    specs: [ "Twisted handles", "Custom logo"],
+    images: ["/images/products/Shopping Bag.png"],
+  },
 ]
 
 export type Service = {
